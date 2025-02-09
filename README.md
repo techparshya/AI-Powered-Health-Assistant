@@ -22,4 +22,4 @@ The AI Healthcare Assistant is a simple and intuitive tool designed to help user
 
 
 💻 Try it Now:
-👉 Access at [http://localhost:8501/](https://techparshya.github.io/AI-Powered-Health-Assistant/) to manage your health with the help of AI!
+👉 Access at [ https://techparshya.github.io/AI-Powered-Health-Assistant/] to manage your health with the help of AI!
